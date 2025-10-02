@@ -1,4 +1,6 @@
-from Geometría.py import Punto, Rectangulo
+from Punto import Punto
+from Rectangulo import Rectangulo
+
 
 # Crear puntos
 A = Punto(2, 3)
