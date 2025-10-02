@@ -1,3 +1,6 @@
+from Punto import Punto
+
+
 class Rectangulo:
     def __init__(self, p1=None, p2=None):
         # Si no se pasan puntos, ambos serán el origen
